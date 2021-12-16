@@ -1,2 +1,7 @@
 # SimpleSpeedometer
+
+# GO TO SPEEDOMETER TO WHERE I MADE THE COMMENT AND CHANGE NUMBER TO 3.6 FOR KPH
+
+# FOR MPH (defualt) THE NUMBER IS 2.2369
+
 A Simple Speedometer For You FiveM Server
