@@ -1,4 +1,4 @@
-client_script "speedometer",
+client_script "speedometer.lua"
 
 -- Thank You For Downloading
 
